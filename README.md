@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 Features
+## Features
 
 - Dynamic memory management for matrices
 - Basic operations: addition, subtraction, scalar multiplication
